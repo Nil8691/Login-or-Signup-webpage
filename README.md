@@ -1,2 +1,2 @@
 # Login-or-Signup-webpage
-This page consist of html,css for front end and PHP and mysql for backend.
+This is Simple Prototype use to Sign-in or Sign-up in same page. 
